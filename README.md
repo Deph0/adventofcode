@@ -8,14 +8,20 @@ Challanges from https://adventofcode.com/
 Solved at later date is indicated by a date.
 
 * 2018
-    - 1 (Gold)
-    - 2 (Gold)
-    - 3 (Gold)
-    - 14 (Silver)
+    * javascript / nodejs
+        - 1 (Gold)
+        - 2 (Gold)
+        - 3 (Gold)
+        - 14 (Silver)
 
 * 2019
-    - 1 (Gold)
-    - 2 (Gold)
+    * Python
+        - 1 (Gold)
+        - 2 (Gold)
+        - 3 (Silver)
+    * Kotlin
+        - 1 (2019-12-02)
+        - 2 (2019-12-02)
 
 
 
