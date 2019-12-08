@@ -19,9 +19,11 @@ Solved at later date is indicated by a date.
         - 1 (Gold)
         - 2 (Gold)
         - 3 (Silver)
+        - 4 (Gold)
     * Kotlin
         - 1 (2019-12-02)
         - 2 (2019-12-02)
+        - 3 (2019-12-07)
 
 
 
