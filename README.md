@@ -25,6 +25,9 @@ Solved at later date is indicated by a date.
         - 2 (2019-12-02)
         - 3 (2019-12-07)
 
+* 2020
+   * Kotlin
+      - 1 (Gold)
 
 
 [both]: <https://via.placeholder.com/120/ffffff/ffff66?text=*>
