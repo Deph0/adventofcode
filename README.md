@@ -28,6 +28,7 @@ Solved at later date is indicated by a date.
 * 2020
    * Kotlin
       - 1 (Gold)
+      - 2 (Gold)
 
 
 [both]: <https://via.placeholder.com/120/ffffff/ffff66?text=*>
