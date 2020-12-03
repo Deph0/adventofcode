@@ -4,7 +4,7 @@ Challanges from https://adventofcode.com/
 > Warning: these might be incomplete and spagetticode :)
 
 ## Solved Tasks
-`Gold` indicates the user got both stars for that day, `Silver` means just the first star, and `Gray` means none.
+`Gold` indicates the user got both stars for that day on that day, `Silver` means just the first star, and `Gray` means none.
 Solved at later date is indicated by a date.
 
 * 2018
@@ -29,6 +29,7 @@ Solved at later date is indicated by a date.
    * Kotlin
       - 1 (Gold)
       - 2 (Gold)
+      - 3 (Gold)
 
 
 [both]: <https://via.placeholder.com/120/ffffff/ffff66?text=*>
