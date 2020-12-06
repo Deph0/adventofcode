@@ -1,5 +1,6 @@
 import java.io.*
 fun input(f: String): List<String> = File(f).bufferedReader().use { it.readLines() }
+fun inputSep(f: String, separator: String = "\n"): List<String> = File(f).bufferedReader().use { it.readText().split(separator) }
 
 fun main(args: Array<String>) {
   // day1()
