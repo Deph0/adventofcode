@@ -32,6 +32,7 @@ Solved at later date is indicated by a date.
       - 3 (Gold)
       - 4 (Gold)
       - 5 (Gold)
+      - 6 (Gold)
 
 
 [both]: <https://via.placeholder.com/120/ffffff/ffff66?text=*>
