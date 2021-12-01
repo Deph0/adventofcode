@@ -34,6 +34,9 @@ Solved at later date is indicated by a date.
       - 5 (Gold)
       - 6 (Gold)
 
+* 2021
+    * python
+        - 1 (Silver)
 
 [both]: <https://via.placeholder.com/120/ffffff/ffff66?text=*>
 [firstonly]: <https://via.placeholder.com/120/ffffff/666699?text=*>
