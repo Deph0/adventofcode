@@ -37,6 +37,8 @@ Solved at later date is indicated by a date.
 * 2021
     * python
         - 1 (Gold)
+    * fsharp
+        - 1 (pt1, example 2021-12-09)
 
 [both]: <https://via.placeholder.com/120/ffffff/ffff66?text=*>
 [firstonly]: <https://via.placeholder.com/120/ffffff/666699?text=*>
