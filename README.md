@@ -40,6 +40,11 @@ Solved at later date is indicated by a date.
     * fsharp
         - 1 (pt1, example 2021-12-09 - by taking advantage of an coincidence)
 
+* 2022
+    * javascript / nodejs
+        - 1 (2022-12-06)
+
+
 [both]: <https://via.placeholder.com/120/ffffff/ffff66?text=*>
 [firstonly]: <https://via.placeholder.com/120/ffffff/666699?text=*>
 [unlocked]: <https://via.placeholder.com/120/ffffff/333333?text=*>
