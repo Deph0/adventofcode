@@ -2263,7 +2263,7 @@ for (var elf of i.split('\n')) {
     elfs[newelf] += Number(elf)
 }
 
-// Lazy way to find top 3, more of less pop array
+// Lazy way to find top 3, more or less pop array if max value
 var top2arr = elfs.filter(e => e !== Math.max(...elfs))
 var top3arr = top2arr.filter(e => e !== Math.max(...top2arr))
 var top1 = Math.max(...elfs),
@@ -2271,4 +2271,4 @@ var top1 = Math.max(...elfs),
   top3 = Math.max(...top3arr),
   top = [top1, top2, top3]
   
-console.log(JSON.stringify(elfs), top, top.reduce((a, b) => a + b))
+console.log(JSON.stringify(elfs), top1, top, top.reduce((a, b) => a + b))
